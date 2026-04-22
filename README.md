@@ -3,10 +3,8 @@
 I am Mahmoud As-Seyyid Ahmed (Mahmoud Khair), an Agricultural Engineering undergraduate and aspiring web developer focused on building the bridge between software, embedded systems, and real-world agricultural applications.
 
 Over the past two years, I was exposed to two major graduation-level engineering systems:
-
 - A precision agriculture pest detection system
 - A smart irrigation and landscape design system
-
 These experiences gave me practical insight into how agricultural systems are modeled, monitored, and optimized using engineering and data-driven approaches.
 
 Alongside my academic background, I have spent the past three years developing my skills in web development and participating in volunteering and team-based environments, strengthening both my technical and collaborative abilities.
