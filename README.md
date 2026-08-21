@@ -1,15 +1,25 @@
-# Hi👨‍💻, I'm Mahmoud As-Seyyid (Khair).
+# 👨‍💻 Mahmoud Khair
 
-I am Mahmoud As-Seyyid Ahmed (Mahmoud Khair), an Agricultural Engineering undergraduate and aspiring web developer focused on building the bridge between software, embedded systems, and real-world agricultural applications.
+I am Mahmoud As-Seyyid Ahmed (Mahmoud Khair), an Agricultural Engineering
+graduate and aspiring web developer focused on building the bridge between
+software, embedded systems, and real-world agricultural applications.
 
-Over the past two years, I was exposed to two major graduation-level engineering systems:
+Over the past two years, I was exposed to two major graduation-level engineering
+systems:
+
 - A precision agriculture pest detection system
 - A smart irrigation and landscape design system
-These experiences gave me practical insight into how agricultural systems are modeled, monitored, and optimized using engineering and data-driven approaches.
 
-Alongside my academic background, I have spent the past three years developing my skills in web development and participating in volunteering and team-based environments, strengthening both my technical and collaborative abilities.
+These experiences gave me practical insight into how agricultural systems are
+modeled, monitored, and optimized using engineering and data-driven approaches.
 
-> Either you’re looking for a web application to build, a smart system to design, a noble cause to represent, or a smart solution deploy, I’m the man for the job.
+Alongside my academic background, I have spent the past three years developing
+my skills in web development and participating in volunteering and team-based
+environments, strengthening both my technical and collaborative abilities.
+
+> Either you’re looking for a web application to build, a smart system to
+> design, a noble cause to represent, or a smart solution deploy, I’m the man
+> for the job.
 
 ---
 
@@ -18,26 +28,43 @@ Alongside my academic background, I have spent the past three years developing m
 ## 🎨 Frontend Engineering
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3 ](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 
 ![AngularJS](https://img.shields.io/badge/AngularJS-black?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
+![Create React App](https://img.shields.io/badge/CRA-black?style=for-the-badge&logo=createreactapp)
+
+![React Router](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=reactrouter)
+![React Router v6+](https://img.shields.io/badge/React_Router_v6%2B-black?style=for-the-badge&logo=reactrouter)
+![React Router loaders and form actions](https://img.shields.io/badge/Router_loaders_%26_form_actions-black?style=for-the-badge&logo=reactrouter)
 
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
-![React Router](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=reactrouter)
-![React Query](https://img.shields.io/badge/React_Query-black?style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-black?style=for-the-badge&logo=redux)
+![React Query](https://img.shields.io/badge/React_Query-black?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-black?style=for-the-badge&logo=reacthookform)
 
 ## 🎨 UI / UX Layer
 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-black?style=for-the-badge)
+
+![styled-components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styledcomponents)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-black?style=for-the-badge&logo=cssmodules&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-black?style=for-the-badge&logo=adobexd)
+
+---
+
+## ⚛️ React Expertise
+
+- React Hooks and advanced patterns
+- Component optimization and performance techniques
+- Reusable component architecture and state management
 
 ---
 
@@ -47,15 +74,17 @@ Alongside my academic background, I have spent the past three years developing m
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
+![Directus](https://img.shields.io/badge/Directus-black?style=for-the-badge&logo=directus)
 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-![bcryptJS](https://img.shields.io/badge/bcryptJS-black?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcryptJS](https://img.shields.io/badge/bcryptJS-black?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Multer](https://img.shields.io/badge/Multer-black?style=for-the-badge)
-![GridFS](https://img.shields.io/badge/GridFS-black?style=for-the-badge)
+![Multer](https://img.shields.io/badge/Multer-black?style=for-the-badge&logo=node.js&logoColor=white)
+![GridFS](https://img.shields.io/badge/GridFS-black?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -65,7 +94,7 @@ Alongside my academic background, I have spent the past three years developing m
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm)
-![PNPM](https://img.shields.io/badge/PNPM-black?style=for-the-badge)
+![PNPM](https://img.shields.io/badge/PNPM-black?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
@@ -77,10 +106,10 @@ Alongside my academic background, I have spent the past three years developing m
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
 
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white)
 
-![REST APIs](https://img.shields.io/badge/REST_APIs-black?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-black?style=for-the-badge&logo=swagger&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white)
 
 ---
 
@@ -111,20 +140,11 @@ Alongside my academic background, I have spent the past three years developing m
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudKhair000&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKhair000&layout=compact&theme=tokyonight)
-
----
-
 ## 🧩 Current Focus
 
-- Building **real-world deployable IoT systems**
-- Strengthening **full-stack fundamentals (React + Node.js)**
-- Developing **agriculture-focused monitoring solutions**
-- Moving from “projects” → “systems”
+### Completing Jonas Schmedtmenn's ReactJS Ultimate Course
+
+- @Part5: Full-Stack React, I have NextJS part to finish
 
 ---
 
