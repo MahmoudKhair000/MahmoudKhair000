@@ -104,6 +104,7 @@ environments, strengthening both my technical and collaborative abilities.
 
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino)
 ![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white)
