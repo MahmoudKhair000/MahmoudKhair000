@@ -46,6 +46,14 @@ environments, strengthening both my technical and collaborative abilities.
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-black?style=for-the-badge&logo=redux)
 ![React Query](https://img.shields.io/badge/React_Query-black?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-black?style=for-the-badge&logo=reacthookform)
+![react-error-boundary](https://img.shields.io/badge/react--error--boundary-black?style=for-the-badge&logo=react)
+
+![react-hot-toast](https://img.shields.io/badge/react--hot--toast-black?style=for-the-badge&logo=react)
+![Recharts](https://img.shields.io/badge/Recharts-black?style=for-the-badge)
+![React DayPicker](https://img.shields.io/badge/React_DayPicker-black?style=for-the-badge&logo=react)
+![date-fns](https://img.shields.io/badge/date--fns-black?style=for-the-badge)
+![React Icons](https://img.shields.io/badge/React_Icons-black?style=for-the-badge&logo=react)
+![Heroicons](https://img.shields.io/badge/Heroicons-black?style=for-the-badge)
 
 ## 🎨 UI / UX Layer
 
@@ -72,16 +80,19 @@ environments, strengthening both my technical and collaborative abilities.
 
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Nodemon](https://img.shields.io/badge/Nodemon-black?style=for-the-badge)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
 ![Directus](https://img.shields.io/badge/Directus-black?style=for-the-badge&logo=directus)
+![Auth.js / NextAuth](https://img.shields.io/badge/Auth.js%20%2F%20NextAuth-black?style=for-the-badge)
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![bcryptJS](https://img.shields.io/badge/bcryptJS-black?style=for-the-badge&logo=javascript&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-black?style=for-the-badge)
 
 ![Multer](https://img.shields.io/badge/Multer-black?style=for-the-badge&logo=node.js&logoColor=white)
 ![GridFS](https://img.shields.io/badge/GridFS-black?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -92,11 +103,14 @@ environments, strengthening both my technical and collaborative abilities.
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
 ![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm)
 ![PNPM](https://img.shields.io/badge/PNPM-black?style=for-the-badge&logo=pnpm&logoColor=white)
+![tsx](https://img.shields.io/badge/tsx-black?style=for-the-badge&logo=typescript)
 
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![PostCSS](https://img.shields.io/badge/PostCSS-black?style=for-the-badge&logo=postcss)
+![Autoprefixer](https://img.shields.io/badge/Autoprefixer-black?style=for-the-badge)
 
 ---
 
@@ -133,24 +147,17 @@ environments, strengthening both my technical and collaborative abilities.
 
 ---
 
-### 📊 Environmental Systems Interest
-
-- Carbon footprint estimation models in agriculture
-- Carbon credit market structure understanding
-- Data-driven sustainability tracking concepts
-
----
-
 ## 🧩 Current Focus
 
-### Completing Jonas Schmedtmenn's ReactJS Ultimate Course
+### Building a Full-Featured Express.js and MongoDB Backend for The Wild Oasis
 
-- @Part5: Full-Stack React, I have NextJS part to finish
+- Creating a fully functional backend system with Express.js and MongoDB
+- Integrating the Wild Oasis CMS/dashboard with the backend through a REST API
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/mahmoud-al-seyyid
-- Email: mahmoudkhair000@outlook.com
-- GitHub: https://github.com/MahmoudKhair000
+- LinkedIn: <https://www.linkedin.com/in/mahmoud-al-seyyid>
+- Email: <mahmoudkhair000@outlook.com>
+- GitHub: <https://github.com/MahmoudKhair000>
